@@ -1,0 +1,55 @@
+{
+  "crystal_structure": {
+    "atomic_positions": [
+      {
+        "wyckoff": "4i",
+        "element": "Mg",
+        "x": "0.671074",
+        "y": "0",
+        "z": "0.034395"
+      },
+      {
+        "wyckoff": "4i",
+        "element": "Mg",
+        "x": "0.037517",
+        "y": "0",
+        "z": "0.233939"
+      },
+      {
+        "wyckoff": "4i",
+        "element": "Cu",
+        "x": "0.855962",
+        "y": "1/2",
+        "z": "0.391119"
+      },
+      {
+        "wyckoff": "4i",
+        "element": "N",
+        "x": "0.67492",
+        "y": "1/2",
+        "z": "0.098027"
+      },
+      {
+        "wyckoff": "4i",
+        "element": "N",
+        "x": "0.978608",
+        "y": "1/2",
+        "z": "0.70137"
+      }
+    ],
+    "symmetry": {
+      "crystal_system": "Monoclinic",
+      "lattice_system": "Monoclinic",
+      "hall_number": "-C 2y",
+      "international_number": 12,
+      "symbol": "C2/m",
+      "point_group": "2/m"
+    },
+    "structure_meta": {
+      "number_of_atoms": 20,
+      "density": "3.66 g·cm⁻³",
+      "dimensionality": "",
+      "possible_oxidation_states": "Cu²⁺, N³⁻, Mg²⁺"
+    }
+  }
+}
